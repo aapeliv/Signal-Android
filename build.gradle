@@ -282,6 +282,8 @@ android {
     }
 
     defaultConfig {
+        applicationId "io.aapeli.signal"
+
         versionCode 437
         versionName "4.31.6"
 
